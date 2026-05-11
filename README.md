@@ -1,1 +1,1 @@
-# CoGSupplementaryMaterial
+# SupplementaryMaterial
